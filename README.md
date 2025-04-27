@@ -1,7 +1,7 @@
 # Java Programming Exercises
 
 This repo gives you exercises to learn and practice **Java Programming**. 
-Almost all the basic topics in Java has been covered in this repo.  
+Almost all the basic topics in Java - objects, classes, constructors, keywords, inheritence, multiple inheritence, input output streams, exception handling and collection frameworks, has been covered in this repo.  
 Do share your contributions if any.
 
 ## Prerequisites
@@ -9,7 +9,6 @@ Make sure Java JDK is installed. You can check by running:
 ``` 
 java -version
 javac -version
-
 ```
 
 To run the java file in VSCode: Click on the `RUN` button on the to right corner of the window, if it does not work try running the java file from **Windows Commmand Prompt, Powershell** or **Mac/Linux Terminal**. The steps do perform the same are given below.
